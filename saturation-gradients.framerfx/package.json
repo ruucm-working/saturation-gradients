@@ -1,0 +1,21 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "78d01b78-e44d-447e-b324-a52202ac2d99",
+		"displayName": "Saturation Gradients"
+	},
+	"author": "yongmin ruucm",
+	"name": "@framer/ruucm-h.mesh-gradients",
+	"version": "1.5.0",
+	"dependencies": {
+		"@framer/framer.default": "^1.106.0"
+	}
+}
